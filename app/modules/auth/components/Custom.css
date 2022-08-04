@@ -1,0 +1,25 @@
+.vehical_type {
+  padding: 11px;
+  width: 100%;
+  border-color: #afafaf;
+  border-radius: 8px;
+}
+.equipmentsCategory {
+  height: 320px;
+  overflow-y: scroll;
+}
+
+.errormessagediv {
+  padding-left: 20px;
+}
+.errormessagediv2 {
+  padding: 12px;
+}
+
+.resendotpbtn {
+  float: right;
+  padding-top: 15px;
+}
+.resendotpbtn:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,7 @@
+export const EMAIL = 'EMAIL'
+export const PASSWORD = 'PASSWORD'
+export const OTP = 'OTP'
+export const IsLoggedin = 'isLoggedin'
+export const LOGINPHONE = 'LOGINPHONE'
+export const PHONEMSG = 'PHONEMSG'
+export const OTPMSG = 'OTPMSG'

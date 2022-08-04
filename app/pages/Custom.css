@@ -1,0 +1,51 @@
+.drop_off_loc{
+    margin-top:60px;
+}
+.alert_class{
+    display: flex;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+.multipleVehi{
+    width: 100%;
+    text-align: center;
+}
+.cutomer_text{
+    margin-bottom: 0;
+    margin-left: 10px;
+    font-size: 12px;
+}
+.bid_container{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+.mile_class{
+    color: rgb(15, 89, 155);
+}
+.price_bid{
+    /* display: grid; */
+}
+.price_cont{
+    font-weight: 700;
+}
+.mi_class{
+    color: gray;
+}
+.view_details{
+    background-color: #5e5c5b38 !important;
+    color: gray !important;
+}
+.view_details:hover{
+    background-color: #5e5c5b38 !important;
+    color: gray !important;
+}
+.wight_class{
+    width: 100%;
+}
+
+.equipment_class{
+    border-right: 1px solid #dfdedeb0;
+    border-left: 1px solid #dfdedeb0;
+
+}
